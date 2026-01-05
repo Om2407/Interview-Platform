@@ -220,4 +220,4 @@ For support, email guptaom203@gmail.com or open an issue in the repository.
 
 ---
 
-Made with ❤️ by Om Guptaom
+Made with ❤️ by Om Gupta
