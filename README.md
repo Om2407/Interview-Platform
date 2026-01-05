@@ -15,7 +15,7 @@ A modern, real-time interview platform with integrated video calling, collaborat
 ## 📸 Screenshots
 
 ### Interview Session Interface
-![Interview Session](./screenshots/session-interface.png)
+![Interview Session](./screenshots/Screenshots (16)png)
 *Real-time collaborative coding with integrated video chat and problem solving*
 
 ## 🛠️ Tech Stack
