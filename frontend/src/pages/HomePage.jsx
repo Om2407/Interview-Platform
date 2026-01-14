@@ -29,7 +29,7 @@ function HomePage() {
             </div>
 
             <div className="flex flex-col">
-              <span className="font-black text-xl bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent font-mono tracking-wider transition-all duration-500 group-hover:tracking-widest group-hover:scale-105 origin-left animate-gradient">
+              <span className="font-black text-xl bg-linear-to-r from-primary via-secondary to-accent bg-clip-text text-transparent font-mono tracking-wider transition-all duration-500 group-hover:tracking-widest group-hover:scale-105 origin-left animate-gradient">
                 Decode@Chn
               </span>
               <span className="text-xs text-base-content/60 font-medium -mt-1 transition-all duration-300 group-hover:text-primary group-hover:translate-x-1">
